@@ -1,0 +1,6 @@
+{
+  "name": "BECKKYENTERPRISE",
+  "description": "Premier luxury destination for solid gold jewelry, curated men's & ladies' fashion, unisex sets, designer accessories, and anti-aging glow supplements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
